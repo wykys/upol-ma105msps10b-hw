@@ -1,4 +1,4 @@
-update=St 6. května 2020, 21:21:33 CEST
+update=St 6. května 2020, 22:23:07 CEST
 version=1
 last_client=kicad
 [general]
@@ -41,7 +41,7 @@ ERC_CheckBusToNetConflicts=1
 [LibeditFrame]
 version=1
 [sheetnames]
-1=60dacc4a-52a5-4438-be9e-402a855f76c2:
+1=6ae5d511-d4d8-472c-8621-b5662500f92f:
 2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
 3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
 4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
