@@ -1,4 +1,4 @@
-update=St 6. května 2020, 20:36:02 CEST
+update=St 6. května 2020, 21:21:33 CEST
 version=1
 last_client=kicad
 [general]
@@ -16,15 +16,6 @@ LibDir=
 version=1
 [ModEditFrame]
 version=1
-[sheetnames]
-1=dadcecee-2817-41ba-89b7-325606756cec:
-2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
-3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
-4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
-5=52932955-7dcc-4585-8847-fab043e1b849:LNA
-6=a25692d1-9e7b-4a75-ba44-9d02993aaa03:SRAM
-7=28145825-b646-4b29-b4c9-a107eb29c27e:ADC
-8=5229f811-6331-414a-a640-83d18ce089f9:FPGA
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -49,6 +40,15 @@ ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
 [LibeditFrame]
 version=1
+[sheetnames]
+1=60dacc4a-52a5-4438-be9e-402a855f76c2:
+2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
+3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
+4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
+5=52932955-7dcc-4585-8847-fab043e1b849:LNA
+6=a25692d1-9e7b-4a75-ba44-9d02993aaa03:SRAM
+7=28145825-b646-4b29-b4c9-a107eb29c27e:ADC
+8=5229f811-6331-414a-a640-83d18ce089f9:FPGA
 [pcbnew]
 version=1
 PageLayoutDescrFile=
