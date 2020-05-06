@@ -985,7 +985,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 270.51 52.07 0) (unit 1)
     (uuid "252f2c82-347f-41f0-bf49-614f7f6b911c")
-    (property "Reference" "#PWR0139" (id 0) (at 270.51 59.69 0)
+    (property "Reference" "#PWR0210" (id 0) (at 270.51 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3A" (id 1) (at 270.637 47.6758 0))
