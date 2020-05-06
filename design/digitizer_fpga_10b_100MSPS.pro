@@ -1,4 +1,4 @@
-update=Čt 7. května 2020, 00:41:06 CEST
+update=Čt 7. května 2020, 01:41:47 CEST
 version=1
 last_client=kicad
 [general]
@@ -12,8 +12,6 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[SchematicFrame]
-version=1
 [ModEditFrame]
 version=1
 [schematic_editor]
@@ -40,8 +38,10 @@ ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
 [LibeditFrame]
 version=1
+[SchematicFrame]
+version=1
 [sheetnames]
-1=6ae5d511-d4d8-472c-8621-b5662500f92f:
+1=499501a4-3ef3-4296-9dca-4ff1f44f36a2:
 2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
 3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
 4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
