@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.581)
-    (drawings 12)
+    (drawings 26)
     (tracks 0)
     (modules 284)
     (nets 334)
@@ -103,7 +103,7 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.05)
     (aux_axis_origin 0 0)
-    (visible_elements FFFDFF7F)
+    (visible_elements FFFDF77F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -11943,6 +11943,20 @@
     )
   )
 
+  (gr_line (start 137 112.5) (end 139 112.5) (layer "Eco2.User") (width 0.1) (tstamp b3b43c99-5e4d-4340-a92a-ad8bb58e6127))
+  (gr_line (start 137 110.5) (end 137 112.5) (layer "Eco2.User") (width 0.1) (tstamp 5543e137-ea93-4819-93bc-30b6b8f7d675))
+  (gr_line (start 139 110.5) (end 137 110.5) (layer "Eco2.User") (width 0.1) (tstamp 87848d18-036e-46f3-81e8-42de8ea57411))
+  (gr_line (start 139 112.5) (end 139 110.5) (layer "Eco2.User") (width 0.1) (tstamp 34a14a54-ea69-475c-8012-8f145681ef40))
+  (gr_line (start 141 114.5) (end 139 112.5) (layer "Eco2.User") (width 0.1) (tstamp c68a1901-5f22-416d-977e-72f7babfa796))
+  (gr_line (start 135 114.5) (end 141 114.5) (layer "Eco2.User") (width 0.1) (tstamp 48a7f315-0edd-4367-a3e6-b24338cbcd10))
+  (gr_line (start 135 108.5) (end 135 114.5) (layer "Eco2.User") (width 0.1) (tstamp 61ef53c1-8a0d-492a-bd4c-520c6bb4e802))
+  (gr_line (start 141 108.5) (end 135 108.5) (layer "Eco2.User") (width 0.1) (tstamp df8b2a18-f2d0-4616-a283-7b8eeef70aab))
+  (gr_line (start 141 114.5) (end 141 108.5) (layer "Eco2.User") (width 0.1) (tstamp 612d2750-d690-4ac9-bb59-dbda0cc7e71f))
+  (gr_line (start 143 116.5) (end 141 114.5) (layer "Eco2.User") (width 0.1) (tstamp 2b635c1d-7de8-489d-a851-46b3346991bf))
+  (gr_line (start 133 116.5) (end 143 116.5) (layer "Eco2.User") (width 0.1) (tstamp 038dc45d-bb25-48ed-8233-e9dea04a71fd))
+  (gr_line (start 133 106.5) (end 133 116.5) (layer "Eco2.User") (width 0.1) (tstamp e2da1af7-ad7a-4b1f-972d-5abfdf80d13a))
+  (gr_line (start 143 106.5) (end 133 106.5) (layer "Eco2.User") (width 0.1) (tstamp 712a7e3a-78f0-4e47-a99e-034b5bd4af00))
+  (gr_line (start 143 116.5) (end 143 106.5) (layer "Eco2.User") (width 0.1) (tstamp 2f401661-51f6-4839-bc19-926ab34f0719))
   (gr_line (start 146.5 111.5) (end 129.5 111.5) (layer "Eco2.User") (width 0.1) (tstamp 58867524-5709-4fc4-a260-b4bd614d6bb0))
   (gr_line (start 138 103) (end 138 120) (layer "Eco2.User") (width 0.1) (tstamp eead0b85-f673-4349-a3c2-28f654fa960d))
   (gr_line (start 146.5 120) (end 129.5 103) (layer "Eco2.User") (width 0.1) (tstamp 5150f3bb-f775-43a4-9507-755fc0d6f0f2))
