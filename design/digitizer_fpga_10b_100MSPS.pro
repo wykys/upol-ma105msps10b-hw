@@ -1,4 +1,4 @@
-update=So 9. května 2020, 00:18:13 CEST
+update=So 9. května 2020, 00:42:16 CEST
 version=1
 last_client=kicad
 [general]
