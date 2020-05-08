@@ -1,4 +1,4 @@
-update=Pá 8. května 2020, 02:10:08 CEST
+update=Pá 8. května 2020, 03:09:15 CEST
 version=1
 last_client=kicad
 [general]
@@ -41,7 +41,7 @@ version=1
 [SchematicFrame]
 version=1
 [sheetnames]
-1=499501a4-3ef3-4296-9dca-4ff1f44f36a2:
+1=84d66b32-99d9-46ac-aa7e-2839c573ea18:
 2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
 3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
 4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
