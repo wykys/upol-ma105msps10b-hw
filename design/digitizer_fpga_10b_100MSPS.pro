@@ -1,4 +1,4 @@
-update=Čt 7. května 2020, 22:51:11 CEST
+update=Pá 8. května 2020, 01:59:42 CEST
 version=1
 last_client=kicad
 [general]
@@ -74,10 +74,15 @@ ProhibitOverlappingCourtyards=1
 CopperEdgeClearance=0.01
 TrackWidth1=0.223135
 TrackWidth2=0.35
+TrackWidth3=0.5
+TrackWidth4=0.8
+TrackWidth5=1
 ViaDiameter1=0.35
 ViaDrill1=0.1
-ViaDiameter2=0.35
+ViaDiameter2=0.4
 ViaDrill2=0.1
+ViaDiameter3=0.8
+ViaDrill3=0.4
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -118,19 +123,19 @@ Name=TOP
 Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
-Name=IN2
+Name=IN2_GND
 Type=1
 Enabled=1
 [pcbnew/Layer.In2.Cu]
-Name=IN3
+Name=IN3_CORE
 Type=1
 Enabled=1
 [pcbnew/Layer.In3.Cu]
-Name=IN4
+Name=IN4_3V3
 Type=1
 Enabled=1
 [pcbnew/Layer.In4.Cu]
-Name=IN5
+Name=IN5_GND
 Type=1
 Enabled=1
 [pcbnew/Layer.In5.Cu]
