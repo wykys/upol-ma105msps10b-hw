@@ -1,4 +1,4 @@
-update=So 9. května 2020, 01:24:06 CEST
+update=So 9. května 2020, 01:37:45 CEST
 version=1
 last_client=kicad
 [general]
@@ -62,7 +62,7 @@ CopperLayerCount=6
 BoardThickness=1.581
 AllowMicroVias=0
 AllowBlindVias=0
-MinClearance=0.15
+MinClearance=0.125
 MinTrackWidth=0.25
 MinViaDiameter=0.35
 MinThroughDrill=0.09999999999999999
@@ -163,7 +163,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
@@ -333,7 +333,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.15
+Clearance=0.125
 TrackWidth=0.25
 ViaDiameter=0.35
 ViaDrill=0.1
