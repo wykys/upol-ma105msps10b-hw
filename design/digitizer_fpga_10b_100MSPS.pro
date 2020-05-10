@@ -1,4 +1,4 @@
-update=Ne 10. května 2020, 01:06:01 CEST
+update=Ne 10. května 2020, 02:04:10 CEST
 version=1
 last_client=kicad
 [general]
@@ -58,12 +58,12 @@ LastIDFExportPath=
 LastVRMLExportPath=
 LastSpecctraDSNExportPath=
 LastGenCADExportPath=
-CopperLayerCount=6
-BoardThickness=1.581
+CopperLayerCount=4
+BoardThickness=1.628
 AllowMicroVias=0
 AllowBlindVias=0
 MinClearance=0.125
-MinTrackWidth=0.25
+MinTrackWidth=0.2
 MinViaDiameter=0.35
 MinThroughDrill=0.09999999999999999
 MinMicroViaDiameter=0.2
@@ -121,7 +121,7 @@ Extra_footprint=warning
 Unresolved_text_variable=error
 CopperEdgeClearance=0.125
 TrackWidth1=0.25
-TrackWidth2=0.35
+TrackWidth2=0.2
 TrackWidth3=0.5
 TrackWidth4=0.8
 TrackWidth5=1
@@ -163,7 +163,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
@@ -173,17 +173,17 @@ Name=IN2_GND
 Type=1
 Enabled=1
 [pcbnew/Layer.In2.Cu]
-Name=IN3_CORE
+Name=IN3_POWER
 Type=1
 Enabled=1
 [pcbnew/Layer.In3.Cu]
-Name=IN4_3V3
-Type=1
-Enabled=1
+Name=In3.Cu
+Type=0
+Enabled=0
 [pcbnew/Layer.In4.Cu]
-Name=IN5_GND
-Type=1
-Enabled=1
+Name=In4.Cu
+Type=0
+Enabled=0
 [pcbnew/Layer.In5.Cu]
 Name=In5.Cu
 Type=0
