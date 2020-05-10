@@ -1,4 +1,4 @@
-update=Ne 10. května 2020, 02:09:31 CEST
+update=Ne 10. května 2020, 02:33:13 CEST
 version=1
 last_client=kicad
 [general]
@@ -163,7 +163,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
@@ -333,7 +333,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.125
+Clearance=0.15
 TrackWidth=0.25
 ViaDiameter=0.35
 ViaDrill=0.1
