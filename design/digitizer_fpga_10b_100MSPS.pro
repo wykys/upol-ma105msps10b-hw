@@ -1,4 +1,4 @@
-update=Ne 10. května 2020, 03:13:21 CEST
+update=Út 12. května 2020, 00:29:20 CEST
 version=1
 last_client=kicad
 [general]
@@ -163,7 +163,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
