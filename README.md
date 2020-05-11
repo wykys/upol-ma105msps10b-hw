@@ -13,6 +13,7 @@ Technická dokumentace používaná k vývoji.
 - [Spartan-7 FPGA Configuration with SPI Flash and Bank 14 at 1.35V](https://www.xilinx.com/support/documentation/application_notes/xapp1313-spartan-spi-config.pdf)
 - [7 Series FPGAs SelectIO Resources User Guide](https://www.xilinx.com/support/documentation/user_guides/ug471_7Series_SelectIO.pdf)
 - [7 Series FPGAs PCB Design Guide](https://www.xilinx.com/support/documentation/user_guides/ug483_7Series_PCB.pdf)
+- [7 Series FPGAs Packaging and Pinout](https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf)
 
 ### Další dokumenty
 - [Přehled logických obvodů ST](https://www.mouser.com/catalog/supplier/library/pdf/STLogic.pdf)
