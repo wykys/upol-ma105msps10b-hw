@@ -1,4 +1,4 @@
-update=Út 12. května 2020, 01:22:06 CEST
+update=Út 12. května 2020, 06:05:31 CEST
 version=1
 last_client=kicad
 [general]
@@ -49,6 +49,8 @@ version=1
 6=a25692d1-9e7b-4a75-ba44-9d02993aaa03:SRAM
 7=28145825-b646-4b29-b4c9-a107eb29c27e:ADC
 8=5229f811-6331-414a-a640-83d18ce089f9:FPGA
+[PcbFrame]
+version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
