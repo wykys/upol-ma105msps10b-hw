@@ -18,3 +18,4 @@ Technická dokumentace používaná k vývoji.
 ### Další dokumenty
 - [Přehled logických obvodů ST](https://www.mouser.com/catalog/supplier/library/pdf/STLogic.pdf)
 - [Zakončování LVCMOS](https://www.idt.com/eu/en/document/apn/953-quick-guide-output-terminations)
+- [USB specifikace](https://www.silabs.com/documents/public/application-notes/AN0046.pdf)
