@@ -1,3 +1,2 @@
 (sym_lib_table
-  (lib (name "digitizer_fpga_10b_100MSPS-rescue")(type "Legacy")(uri "${KIPRJMOD}/digitizer_fpga_10b_100MSPS-rescue.lib")(options "")(descr ""))
 )
