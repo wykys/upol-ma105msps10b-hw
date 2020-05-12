@@ -1,4 +1,4 @@
-(kicad_sch (version 20200506) (host eeschema "5.99.0-unknown-acdfeee~101~ubuntu18.04.1")
+(kicad_sch (version 20200506) (host eeschema "5.99.0-unknown-c3b50d3~101~ubuntu18.04.1")
 
   (page "A4")
 
@@ -659,7 +659,7 @@
     (uuid "2d8de8c5-1794-4f44-9a39-f2998424f5ad")
     (property "Reference" "TP1" (id 0) (at 83.693 56.134 90))
     (property "Value" "TestPoint_Probe" (id 1) (at 83.693 58.4454 90))
-    (property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile" (id 2) (at 85.09 58.42 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 85.09 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 85.09 58.42 0)
@@ -671,7 +671,7 @@
     (uuid "c65d635c-d8a6-4179-9b56-b84df438274c")
     (property "Reference" "TP2" (id 0) (at 214.503 82.804 90))
     (property "Value" "TestPoint_Probe" (id 1) (at 214.503 85.1154 90))
-    (property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile" (id 2) (at 215.9 85.09 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 215.9 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 215.9 85.09 0)
@@ -683,7 +683,7 @@
     (uuid "9bd3ccf1-1902-44dd-b313-18816084ddd7")
     (property "Reference" "TP3" (id 0) (at 214.503 105.3338 0))
     (property "Value" "TestPoint_Probe" (id 1) (at 214.503 107.6452 0))
-    (property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile" (id 2) (at 210.82 100.33 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 210.82 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 100.33 0)

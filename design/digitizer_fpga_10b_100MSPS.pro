@@ -1,4 +1,4 @@
-update=Út 12. května 2020, 18:30:59 CEST
+update=Út 12. května 2020, 22:16:37 CEST
 version=1
 last_client=kicad
 [general]
@@ -40,8 +40,10 @@ ERC_CheckBusToNetConflicts=1
 version=1
 [SchematicFrame]
 version=1
+[PcbFrame]
+version=1
 [sheetnames]
-1=dea1189e-59a4-4dda-b6c0-22707a97f225:
+1=943583c4-75e3-48ad-ac05-50401320d484:
 2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
 3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
 4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
@@ -49,8 +51,6 @@ version=1
 6=a25692d1-9e7b-4a75-ba44-9d02993aaa03:SRAM
 7=28145825-b646-4b29-b4c9-a107eb29c27e:ADC
 8=5229f811-6331-414a-a640-83d18ce089f9:FPGA
-[PcbFrame]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -66,6 +66,7 @@ AllowMicroVias=0
 AllowBlindVias=0
 MinClearance=0.125
 MinTrackWidth=0.2
+MinViaAnnulus=0.05
 MinViaDiameter=0.35
 MinThroughDrill=0.09999999999999999
 MinMicroViaDiameter=0.2
@@ -94,6 +95,7 @@ Hole_too_close_to_track=error
 Drilled_holes_too_close_together=error
 Track_width_too_small=error
 Via_size_too_small=error
+Via_annulus_too_small=error
 Via_drill_too_small=error
 Pad_drill_too_small=error
 Via_hole_larger_than_diameter=error
@@ -104,6 +106,7 @@ Micro_via_drill_too_small=error
 Buried_via_not_allowed=error
 NetClass_Track_Width_too_small=error
 NetClass_Clearance_too_small=error
+NetClass_via_annulus_too_small=error
 NetClass_Via_Dia_too_small=error
 NetClass_Via_Drill_too_small=error
 NetClass_uVia_Dia_too_small=error
@@ -132,7 +135,7 @@ ViaDrill1=0.1
 ViaDiameter2=0.8
 ViaDrill2=0.4
 dPairWidth1=0.25
-dPairGap1=0.25
+dPairGap1=0.15
 dPairViaGap1=0.25
 SilkLineWidth=0.12
 SilkTextSizeV=1
@@ -165,7 +168,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
@@ -342,5 +345,5 @@ ViaDrill=0.1
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.25
-dPairGap=0.25
+dPairGap=0.15
 dPairViaGap=0.25
