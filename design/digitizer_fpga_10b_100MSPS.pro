@@ -1,4 +1,4 @@
-update=St 13. května 2020, 01:00:20 CEST
+update=St 13. května 2020, 22:15:06 CEST
 version=1
 last_client=kicad
 [general]
@@ -40,6 +40,17 @@ ERC_CheckBusToNetConflicts=1
 version=1
 [PcbFrame]
 version=1
+[SchematicFrame]
+version=1
+[sheetnames]
+1=962dd21c-8e38-425e-bacf-f1939b30bb3c:
+2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
+3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
+4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
+5=52932955-7dcc-4585-8847-fab043e1b849:LNA
+6=a25692d1-9e7b-4a75-ba44-9d02993aaa03:SRAM
+7=28145825-b646-4b29-b4c9-a107eb29c27e:ADC
+8=5229f811-6331-414a-a640-83d18ce089f9:FPGA
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -157,7 +168,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
@@ -336,14 +347,3 @@ uViaDrill=0.1
 dPairWidth=0.25
 dPairGap=0.15
 dPairViaGap=0.25
-[SchematicFrame]
-version=1
-[sheetnames]
-1=962dd21c-8e38-425e-bacf-f1939b30bb3c:
-2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
-3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
-4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
-5=52932955-7dcc-4585-8847-fab043e1b849:LNA
-6=a25692d1-9e7b-4a75-ba44-9d02993aaa03:SRAM
-7=28145825-b646-4b29-b4c9-a107eb29c27e:ADC
-8=5229f811-6331-414a-a640-83d18ce089f9:FPGA
