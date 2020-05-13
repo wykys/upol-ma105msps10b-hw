@@ -1,6 +1,8 @@
-(kicad_sch (version 20200506) (host eeschema "5.99.0-unknown-c3b50d3~101~ubuntu18.04.1")
+(kicad_sch (version 20200512) (host eeschema "5.99.0-unknown-2cf82d9~101~ubuntu18.04.1")
 
-  (page "A4")
+  (page 1 8)
+
+  (paper "A4")
 
   (title_block
     (title "Digitizer 10b 105 MSPS with FPGA")
@@ -352,7 +354,7 @@
     )
   )
 
-  (bus_alias "FTDI" (members "FTDI_TX" "FTDI_RX" "~FTDI_RTS" "~FTDI_CTS" "FTDI_CBUS[3..0]"))
+  (bus_alias "FTDI" (members "FTDI_TX" "FTDI_RX" "~FTDI_RTS" "~FTDI_CTS" "FTDI_CBUS[0..3]"))
   (junction (at 44.45 29.21))
   (junction (at 55.88 29.21))
   (junction (at 55.88 54.61))
@@ -361,12 +363,12 @@
   (junction (at 138.43 105.41))
   (junction (at 187.96 134.62))
 
-  (no_connect (at 44.45 129.54))
-  (no_connect (at 205.74 110.49))
-  (no_connect (at 34.29 134.62))
   (no_connect (at 205.74 113.03))
   (no_connect (at 205.74 105.41))
   (no_connect (at 205.74 107.95))
+  (no_connect (at 44.45 129.54))
+  (no_connect (at 34.29 134.62))
+  (no_connect (at 205.74 110.49))
   (no_connect (at 170.18 95.25))
 
   (bus_entry (at 238.76 95.25) (size 2.54 -2.54))

@@ -1,6 +1,8 @@
-(kicad_sch (version 20200506) (host eeschema "5.99.0-unknown-c3b50d3~101~ubuntu18.04.1")
+(kicad_sch (version 20200512) (host eeschema "5.99.0-unknown-2cf82d9~101~ubuntu18.04.1")
 
-  (page "A4")
+  (page 1 8)
+
+  (paper "A4")
 
   (title_block
     (title "Digitizer 10b 105 MSPS with FPGA")

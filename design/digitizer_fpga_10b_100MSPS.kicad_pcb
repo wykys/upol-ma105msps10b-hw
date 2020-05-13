@@ -3698,7 +3698,7 @@
   )
 
   (module "Resistor_SMD:R_0402_1005Metric" (layer "TOP") (tedit 5B301BBD) (tstamp a1fc6278-2ab7-4fd7-9112-68d83cd63a38)
-    (at 127.5 113)
+    (at 127.5 114)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (path "/5229f811-6331-414a-a640-83d18ce089f9/aeec69f5-b4d6-4813-929b-ef52a824c1f9")
@@ -3732,7 +3732,7 @@
   )
 
   (module "Resistor_SMD:R_0402_1005Metric" (layer "TOP") (tedit 5B301BBD) (tstamp 862aef83-1789-435e-bf53-f3380eb401bc)
-    (at 127.5 114)
+    (at 127.5 113)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (path "/5229f811-6331-414a-a640-83d18ce089f9/06d41c24-c690-48f5-a36e-a4a396fd4fa4")

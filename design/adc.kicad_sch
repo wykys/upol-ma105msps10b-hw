@@ -1,6 +1,8 @@
-(kicad_sch (version 20200506) (host eeschema "5.99.0-unknown-c3b50d3~101~ubuntu18.04.1")
+(kicad_sch (version 20200512) (host eeschema "5.99.0-unknown-2cf82d9~101~ubuntu18.04.1")
 
-  (page "A4")
+  (page 1 8)
+
+  (paper "A4")
 
   (title_block
     (title "Digitizer 10b 105 MSPS with FPGA")
@@ -436,7 +438,7 @@
     )
   )
 
-  (bus_alias "ADC" (members "ADC_DATA[9..0]" "ADC_OVRNG"))
+  (bus_alias "ADC" (members "ADC_DATA[0..9]" "ADC_OVRNG"))
   (junction (at 27.94 36.83))
   (junction (at 48.26 36.83))
   (junction (at 110.49 130.81))
@@ -584,10 +586,10 @@
   (wire (pts (xy 270.51 62.23) (xy 270.51 63.5)))
   (bus (pts (xy 214.63 88.9) (xy 214.63 93.98)))
   (bus (pts (xy 214.63 93.98) (xy 214.63 99.06)))
-  (bus (pts (xy 214.63 99.06) (xy 214.63 101.6)))
-  (bus (pts (xy 214.63 101.6) (xy 214.63 106.68)))
-  (bus (pts (xy 214.63 106.68) (xy 214.63 111.76)))
-  (bus (pts (xy 214.63 111.76) (xy 214.63 116.84)))
+  (bus (pts (xy 214.63 99.06) (xy 214.63 104.14)))
+  (bus (pts (xy 214.63 104.14) (xy 214.63 109.22)))
+  (bus (pts (xy 214.63 109.22) (xy 214.63 114.3)))
+  (bus (pts (xy 214.63 114.3) (xy 214.63 116.84)))
   (bus (pts (xy 220.98 88.9) (xy 214.63 88.9)))
 
   (text "1.24V" (at 40.64 36.83 180)
