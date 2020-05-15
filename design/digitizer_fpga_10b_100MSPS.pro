@@ -1,4 +1,4 @@
-update=Čt 14. května 2020, 22:22:32 CEST
+update=Pá 15. května 2020, 11:31:08 CEST
 version=1
 last_client=kicad
 [general]
@@ -43,7 +43,7 @@ version=1
 [SchematicFrame]
 version=1
 [sheetnames]
-1=5195c9de-57b2-4714-99f2-70772e800d97:
+1=a6483d2e-7743-4beb-9d51-9e60988cffab:
 2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
 3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
 4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
@@ -168,7 +168,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
