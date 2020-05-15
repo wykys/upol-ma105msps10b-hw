@@ -696,10 +696,10 @@
   (junction (at 242.57 123.19))
   (junction (at 251.46 29.21))
 
-  (no_connect (at 85.09 135.89))
-  (no_connect (at 85.09 87.63))
   (no_connect (at 199.39 135.89))
+  (no_connect (at 85.09 87.63))
   (no_connect (at 199.39 86.36))
+  (no_connect (at 85.09 135.89))
 
   (wire (pts (xy 39.37 161.29) (xy 39.37 163.83)))
   (wire (pts (xy 39.37 171.45) (xy 39.37 175.26)))
