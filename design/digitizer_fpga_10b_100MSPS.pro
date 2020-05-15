@@ -1,4 +1,4 @@
-update=Pá 15. května 2020, 11:58:31 CEST
+update=Pá 15. května 2020, 13:20:50 CEST
 version=1
 last_client=kicad
 [general]
@@ -124,7 +124,7 @@ Missing_footprint=warning
 Duplicate_footprints=warning
 Extra_footprint=warning
 Unresolved_text_variable=error
-CopperEdgeClearance=0.125
+CopperEdgeClearance=0.15
 TrackWidth1=0.25
 TrackWidth2=0.2
 TrackWidth3=0.5
@@ -338,7 +338,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.15
+Clearance=0.125
 TrackWidth=0.25
 ViaDiameter=0.35
 ViaDrill=0.1
