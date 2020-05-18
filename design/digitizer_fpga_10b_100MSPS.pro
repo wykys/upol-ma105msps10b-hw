@@ -1,4 +1,4 @@
-update=Po 18. května 2020, 01:11:20 CEST
+update=Tue 19 May 2020 00:28:29 CEST
 version=1
 last_client=kicad
 [general]
@@ -14,11 +14,7 @@ LibDir=
 [eeschema/libraries]
 [ModEditFrame]
 version=1
-[LibeditFrame]
-version=1
 [PcbFrame]
-version=1
-[SchematicFrame]
 version=1
 [schematic_editor]
 version=1
@@ -42,8 +38,12 @@ ERC_CheckBusDriverConflicts=1
 ERC_CheckBusEntryConflicts=1
 ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
+[LibeditFrame]
+version=1
+[SchematicFrame]
+version=1
 [sheetnames]
-1=efd87464-6a0b-47d8-ae93-9b6cd9a4ce0b:
+1=cc39a367-a62a-4ac6-970d-d6448aaf2e5f:
 2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
 3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
 4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
@@ -66,7 +66,7 @@ AllowMicroVias=0
 AllowBlindVias=0
 MinClearance=0.125
 MinTrackWidth=0.2
-MinViaAnnulus=0.05
+MinViaAnnulus=0.125
 MinViaDiameter=0.35
 MinThroughDrill=0.09999999999999999
 MinMicroViaDiameter=0.2
@@ -172,7 +172,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=TOP
 Type=0
