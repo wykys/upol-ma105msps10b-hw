@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.628)
-    (drawings 83)
+    (drawings 84)
     (tracks 2931)
     (modules 286)
     (nets 334)
@@ -12200,6 +12200,9 @@
     )
   )
 
+  (gr_text "FPGA DONE" (at 127 98.5) (layer "F.SilkS") (tstamp 8bbdbf4b-d51b-482b-bc17-c24909ff0933)
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
+  )
   (gr_text "V1.0 2020" (at 169.75 98) (layer "F.SilkS") (tstamp ce26a39a-1909-44cb-82bc-f815e9399719)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify right))
   )
