@@ -22,7 +22,7 @@
       (property "Footprint" "KLIB_Logo:wykys_small_skill" (id 2) (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "https://github.com/wykys" (id 3) (at 0 -3.4544 0)
+      (property "Datasheet" "" (id 3) (at 0 -3.4544 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "wykys logo" (id 4) (at 0 0 0)
