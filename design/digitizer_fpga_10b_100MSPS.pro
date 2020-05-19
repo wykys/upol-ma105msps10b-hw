@@ -1,4 +1,4 @@
-update=Tue 19 May 2020 18:13:41 CEST
+update=Tue 19 May 2020 19:55:13 CEST
 version=1
 last_client=kicad
 [general]
@@ -85,6 +85,8 @@ Track_ends_too_close=error
 Parallel_tracks_too_close=error
 Tracks_crossing=error
 Track_too_close_to_board_edge=error
+Via_too_close_to_board_edge=error
+Pad_too_close_to_board_edge=error
 Pads_too_close=error
 Pad_too_close_to_copper_item=error
 Copper_areas_intersect=error
