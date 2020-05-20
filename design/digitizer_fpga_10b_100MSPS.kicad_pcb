@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.628)
-    (drawings 93)
+    (drawings 94)
     (tracks 3025)
     (modules 296)
     (nets 343)
@@ -59,7 +59,7 @@
       (copper_finish "Hard gold")
       (dielectric_constraints yes)
     )
-    (last_trace_width 0.2)
+    (last_trace_width 0.25)
     (user_trace_width 0.2)
     (user_trace_width 0.5)
     (user_trace_width 0.8)
@@ -12480,6 +12480,9 @@
     )
   )
 
+  (gr_text "MCU SWD" (at 111.75 143.75) (layer "F.SilkS") (tstamp 28bbd8c6-8f43-4063-9620-6ceb5e3c1f6a)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text "POWER" (at 78.5 139.25) (layer "F.SilkS") (tstamp eb4143d7-1038-4e7a-bf13-13cd13e80b6c)
     (effects (font (size 1 1) (thickness 0.15)))
   )
