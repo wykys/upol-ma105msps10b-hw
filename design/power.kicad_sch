@@ -696,8 +696,8 @@
   (junction (at 242.57 123.19))
   (junction (at 251.46 29.21))
 
-  (no_connect (at 199.39 86.36))
   (no_connect (at 199.39 135.89))
+  (no_connect (at 199.39 86.36))
   (no_connect (at 85.09 135.89))
   (no_connect (at 85.09 87.63))
 

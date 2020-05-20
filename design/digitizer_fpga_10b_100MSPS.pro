@@ -1,4 +1,4 @@
-update=Wed 20 May 2020 00:32:53 CEST
+update=Wed 20 May 2020 02:59:45 CEST
 version=1
 last_client=kicad
 [general]
@@ -43,7 +43,7 @@ version=1
 [SchematicFrame]
 version=1
 [sheetnames]
-1=45055487-1326-4d36-b99c-d8d68bb1f451:
+1=80bd609b-21a5-4246-85e4-3013e799ce9b:
 2=82b1d4bb-189b-4ecd-aa1b-6a387d151efc:Power
 3=744549a0-bc16-487f-9ead-074cadabfe5e:MCU
 4=9c26d541-ff6a-4a88-8a78-9a95fd5b0d69:USB
