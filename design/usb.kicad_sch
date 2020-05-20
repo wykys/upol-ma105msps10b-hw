@@ -503,12 +503,12 @@
   (junction (at 190.5 68.58))
   (junction (at 190.5 116.84))
 
-  (no_connect (at 208.28 90.17))
-  (no_connect (at 172.72 77.47))
-  (no_connect (at 36.83 116.84))
-  (no_connect (at 208.28 92.71))
   (no_connect (at 208.28 95.25))
+  (no_connect (at 172.72 77.47))
+  (no_connect (at 208.28 92.71))
   (no_connect (at 46.99 111.76))
+  (no_connect (at 36.83 116.84))
+  (no_connect (at 208.28 90.17))
 
   (bus_entry (at 241.3 77.47) (size 2.54 -2.54))
   (bus_entry (at 241.3 80.01) (size 2.54 -2.54))
