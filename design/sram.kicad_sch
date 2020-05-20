@@ -603,7 +603,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 139.7 53.34 0) (unit 1)
     (uuid "3b2097a6-51bf-4b7a-98f5-c57e287bd1d9")
-    (property "Reference" "#PWR?" (id 0) (at 139.7 60.96 0)
+    (property "Reference" "#PWR0222" (id 0) (at 139.7 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3D" (id 1) (at 139.827 48.9458 0))

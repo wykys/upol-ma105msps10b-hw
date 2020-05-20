@@ -1842,7 +1842,7 @@
 
   (symbol (lib_id "KLIB_Power:+1V0") (at 26.67 31.75 0) (unit 1)
     (uuid "417b96a6-800c-43a5-ae77-8afb8f25138d")
-    (property "Reference" "#PWR?" (id 0) (at 26.67 39.37 0)
+    (property "Reference" "#PWR0224" (id 0) (at 26.67 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V0" (id 1) (at 26.67 27.94 0))
@@ -2318,7 +2318,7 @@
 
   (symbol (lib_id "KLIB_Power:+1V8") (at 90.17 31.75 0) (unit 1)
     (uuid "c92866fa-1fa8-4c7e-a6da-8e10647e9146")
-    (property "Reference" "#PWR?" (id 0) (at 90.17 39.37 0)
+    (property "Reference" "#PWR0223" (id 0) (at 90.17 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V8" (id 1) (at 90.17 27.94 0))
@@ -2542,7 +2542,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 224.79 237.49 0) (unit 1)
     (uuid "f63d1adf-b890-4021-aacc-e95ac46c8507")
-    (property "Reference" "#PWR?" (id 0) (at 224.79 245.11 0)
+    (property "Reference" "#PWR0225" (id 0) (at 224.79 245.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3D" (id 1) (at 224.79 233.68 0))
@@ -2584,7 +2584,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 256.54 22.86 0) (unit 1)
     (uuid "92ca26db-4625-4504-96f3-13083990d5b3")
-    (property "Reference" "#PWR?" (id 0) (at 256.54 30.48 0)
+    (property "Reference" "#PWR0226" (id 0) (at 256.54 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3D" (id 1) (at 256.54 19.05 0))
@@ -2724,7 +2724,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 374.65 185.42 0) (unit 1)
     (uuid "34e5949c-489e-4cd1-9c36-6571791501e7")
-    (property "Reference" "#PWR?" (id 0) (at 374.65 193.04 0)
+    (property "Reference" "#PWR0228" (id 0) (at 374.65 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3D" (id 1) (at 374.65 181.61 0))
@@ -2766,7 +2766,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 389.89 22.86 0) (unit 1)
     (uuid "d64fb8c3-e8b0-4f3b-8750-c3015328206f")
-    (property "Reference" "#PWR?" (id 0) (at 389.89 30.48 0)
+    (property "Reference" "#PWR0227" (id 0) (at 389.89 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3D" (id 1) (at 389.89 19.05 0))
