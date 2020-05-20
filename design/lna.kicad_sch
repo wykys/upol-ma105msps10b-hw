@@ -411,7 +411,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 67.31 69.85 0) (unit 1)
     (uuid "942f04db-39c9-4a9b-a730-26a241ca9247")
-    (property "Reference" "#PWR0108" (id 0) (at 67.31 74.93 0)
+    (property "Reference" "#PWR0111" (id 0) (at 67.31 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 67.437 74.2442 0))
@@ -425,7 +425,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 85.09 80.01 0) (unit 1)
     (uuid "e4402aaa-a8fb-4924-bf7f-69378ad2f02e")
-    (property "Reference" "#PWR0109" (id 0) (at 85.09 85.09 0)
+    (property "Reference" "#PWR0112" (id 0) (at 85.09 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 85.217 84.4042 0))
@@ -439,7 +439,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 85.09 95.25 0) (unit 1)
     (uuid "24690bdd-28ab-4fd0-b784-5a787528627e")
-    (property "Reference" "#PWR0110" (id 0) (at 85.09 102.87 0)
+    (property "Reference" "#PWR0113" (id 0) (at 85.09 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3A" (id 1) (at 85.217 90.8558 0))
@@ -453,7 +453,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 85.09 115.57 0) (unit 1)
     (uuid "9de3de6a-4d80-4a28-80a7-259a391ff6be")
-    (property "Reference" "#PWR0111" (id 0) (at 85.09 120.65 0)
+    (property "Reference" "#PWR0114" (id 0) (at 85.09 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 85.217 119.9642 0))
@@ -467,7 +467,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 85.09 138.43 0) (unit 1)
     (uuid "5fdda857-d746-439b-bc40-fd2f1cf45bea")
-    (property "Reference" "#PWR0112" (id 0) (at 85.09 143.51 0)
+    (property "Reference" "#PWR0115" (id 0) (at 85.09 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 85.217 142.8242 0))
@@ -481,7 +481,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 95.25 115.57 0) (unit 1)
     (uuid "a097dd54-6908-4a04-a794-07471226bfed")
-    (property "Reference" "#PWR0113" (id 0) (at 95.25 120.65 0)
+    (property "Reference" "#PWR0116" (id 0) (at 95.25 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 95.377 119.9642 0))
@@ -495,7 +495,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 102.87 74.93 0) (unit 1)
     (uuid "fcee8787-4c9f-4dce-bf89-69bb07822158")
-    (property "Reference" "#PWR0114" (id 0) (at 102.87 82.55 0)
+    (property "Reference" "#PWR0117" (id 0) (at 102.87 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3A" (id 1) (at 102.997 70.5358 0))
@@ -509,7 +509,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 105.41 115.57 0) (unit 1)
     (uuid "7d9b12df-5feb-4607-9ef4-4058a69039bd")
-    (property "Reference" "#PWR0115" (id 0) (at 105.41 120.65 0)
+    (property "Reference" "#PWR0118" (id 0) (at 105.41 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 105.537 119.9642 0))
@@ -523,7 +523,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 114.3 74.93 0) (unit 1)
     (uuid "2e0933d2-54af-4f43-83fc-cdf849a6a2e8")
-    (property "Reference" "#PWR0116" (id 0) (at 114.3 82.55 0)
+    (property "Reference" "#PWR0119" (id 0) (at 114.3 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3A" (id 1) (at 114.427 70.5358 0))
@@ -537,7 +537,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 129.54 74.93 0) (unit 1)
     (uuid "a213d69f-062b-4f09-ba76-f8b932fdb035")
-    (property "Reference" "#PWR0117" (id 0) (at 129.54 82.55 0)
+    (property "Reference" "#PWR0120" (id 0) (at 129.54 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3A" (id 1) (at 129.667 70.5358 0))
@@ -551,7 +551,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 144.78 120.65 0) (unit 1)
     (uuid "366b8d40-dda2-4837-8558-935a51979857")
-    (property "Reference" "#PWR0118" (id 0) (at 144.78 125.73 0)
+    (property "Reference" "#PWR0121" (id 0) (at 144.78 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 144.907 125.0442 0))
@@ -565,7 +565,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 229.87 36.83 0) (unit 1)
     (uuid "c15df2e7-b54e-498b-83ba-e1fa84951d22")
-    (property "Reference" "#PWR0119" (id 0) (at 229.87 41.91 0)
+    (property "Reference" "#PWR0122" (id 0) (at 229.87 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 229.997 41.2242 0))
@@ -579,7 +579,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 241.3 36.83 0) (unit 1)
     (uuid "1490a7d3-103c-45d5-84c2-76b70a5eff7d")
-    (property "Reference" "#PWR0120" (id 0) (at 241.3 41.91 0)
+    (property "Reference" "#PWR0123" (id 0) (at 241.3 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 241.427 41.2242 0))
@@ -593,7 +593,7 @@
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 254 25.4 0) (unit 1)
     (uuid "c408ae23-4459-416b-8ded-54a7238e524f")
-    (property "Reference" "#PWR0121" (id 0) (at 254 33.02 0)
+    (property "Reference" "#PWR0124" (id 0) (at 254 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3A" (id 1) (at 254.127 21.0058 0))
@@ -607,7 +607,7 @@
 
   (symbol (lib_id "KLIB_Power:GND") (at 254 36.83 0) (unit 1)
     (uuid "585416c4-b511-42fc-81d3-6ac514e41b4f")
-    (property "Reference" "#PWR0122" (id 0) (at 254 41.91 0)
+    (property "Reference" "#PWR0125" (id 0) (at 254 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 254.127 41.2242 0))
@@ -621,7 +621,7 @@
 
   (symbol (lib_id "Device:R") (at 85.09 72.39 0) (unit 1)
     (uuid "d720bef2-fbae-45a8-8f5d-5272e3c1e25c")
-    (property "Reference" "R36" (id 0) (at 86.868 71.2216 0)
+    (property "Reference" "R37" (id 0) (at 86.868 71.2216 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "64R2" (id 1) (at 86.868 73.533 0)
@@ -637,7 +637,7 @@
 
   (symbol (lib_id "Device:R") (at 85.09 100.33 0) (unit 1)
     (uuid "fc62a244-84fb-4c55-8184-35e5d6f83d57")
-    (property "Reference" "R37" (id 0) (at 86.868 99.1616 0)
+    (property "Reference" "R38" (id 0) (at 86.868 99.1616 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100R" (id 1) (at 86.868 101.473 0)
@@ -653,7 +653,7 @@
 
   (symbol (lib_id "Device:R") (at 85.09 110.49 0) (unit 1)
     (uuid "7fe15532-ef88-477a-a880-32ca89529bcb")
-    (property "Reference" "R38" (id 0) (at 86.868 109.3216 0)
+    (property "Reference" "R39" (id 0) (at 86.868 109.3216 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100R" (id 1) (at 86.868 111.633 0)
@@ -669,7 +669,7 @@
 
   (symbol (lib_id "Device:R") (at 95.25 63.5 270) (unit 1)
     (uuid "a65f2e04-4be2-42f0-987c-df9b27f3e33b")
-    (property "Reference" "R39" (id 0) (at 95.25 58.2422 90))
+    (property "Reference" "R40" (id 0) (at 95.25 58.2422 90))
     (property "Value" "142R" (id 1) (at 95.25 60.5536 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 95.25 61.722 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -681,7 +681,7 @@
 
   (symbol (lib_id "Device:R") (at 95.25 110.49 0) (unit 1)
     (uuid "320c22a8-6713-4a0a-b695-f0cf204257e1")
-    (property "Reference" "R40" (id 0) (at 97.028 109.3216 0)
+    (property "Reference" "R41" (id 0) (at 97.028 109.3216 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100R" (id 1) (at 97.028 111.633 0)
@@ -697,7 +697,7 @@
 
   (symbol (lib_id "Device:R") (at 95.25 134.62 270) (unit 1)
     (uuid "a35475eb-b724-4ec3-b15b-84b1c0404c12")
-    (property "Reference" "R41" (id 0) (at 95.25 129.3622 90))
+    (property "Reference" "R42" (id 0) (at 95.25 129.3622 90))
     (property "Value" "169R" (id 1) (at 95.25 131.6736 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 95.25 132.842 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -709,7 +709,7 @@
 
   (symbol (lib_id "Device:R") (at 102.87 83.82 0) (unit 1)
     (uuid "354b4ba7-d995-45bf-9c30-4901333346f3")
-    (property "Reference" "R42" (id 0) (at 104.648 82.6516 0)
+    (property "Reference" "R43" (id 0) (at 104.648 82.6516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "739R" (id 1) (at 104.648 84.963 0)
@@ -725,7 +725,7 @@
 
   (symbol (lib_id "Device:R") (at 114.3 83.82 0) (unit 1)
     (uuid "7745f107-f732-41f0-a729-eede7c925617")
-    (property "Reference" "R43" (id 0) (at 116.078 82.6516 0)
+    (property "Reference" "R44" (id 0) (at 116.078 82.6516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "739R" (id 1) (at 116.078 84.963 0)
@@ -741,7 +741,7 @@
 
   (symbol (lib_id "Device:R") (at 129.54 83.82 0) (unit 1)
     (uuid "c9d21a96-6428-41b9-bd87-37287e127c43")
-    (property "Reference" "R44" (id 0) (at 131.318 82.6516 0)
+    (property "Reference" "R45" (id 0) (at 131.318 82.6516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (id 1) (at 131.318 84.963 0)
@@ -757,7 +757,7 @@
 
   (symbol (lib_id "Device:R") (at 149.86 63.5 270) (unit 1)
     (uuid "a85698b1-fd38-4e42-becb-65a34d96a010")
-    (property "Reference" "R45" (id 0) (at 149.86 58.2422 90))
+    (property "Reference" "R46" (id 0) (at 149.86 58.2422 90))
     (property "Value" "301R" (id 1) (at 149.86 60.5536 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 149.86 61.722 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -769,7 +769,7 @@
 
   (symbol (lib_id "Device:R") (at 149.86 134.62 270) (unit 1)
     (uuid "7c19a159-6fdf-48ef-8ae4-808e576adc34")
-    (property "Reference" "R46" (id 0) (at 149.86 129.3622 90))
+    (property "Reference" "R47" (id 0) (at 149.86 129.3622 90))
     (property "Value" "301R" (id 1) (at 149.86 131.6736 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 149.86 132.842 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -781,7 +781,7 @@
 
   (symbol (lib_id "Device:R") (at 195.58 90.17 270) (unit 1)
     (uuid "a9041087-5b6f-4163-8167-f68c5c573c0b")
-    (property "Reference" "R47" (id 0) (at 195.58 84.9122 90))
+    (property "Reference" "R48" (id 0) (at 195.58 84.9122 90))
     (property "Value" "47R" (id 1) (at 195.58 87.2236 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 195.58 88.392 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -793,7 +793,7 @@
 
   (symbol (lib_id "Device:R") (at 195.58 100.33 270) (unit 1)
     (uuid "4f4f4f5d-ab97-4d23-b567-a9e9751d40f0")
-    (property "Reference" "R48" (id 0) (at 195.58 95.0722 90))
+    (property "Reference" "R49" (id 0) (at 195.58 95.0722 90))
     (property "Value" "47R" (id 1) (at 195.58 97.3836 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 195.58 98.552 90)
       (effects (font (size 1.27 1.27)) hide)
