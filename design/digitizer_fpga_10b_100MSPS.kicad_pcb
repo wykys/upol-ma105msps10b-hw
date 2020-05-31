@@ -1,4 +1,4 @@
-(kicad_pcb (version 20200512) (host pcbnew "5.99.0-unknown-4efed4b~101~ubuntu18.04.1")
+(kicad_pcb (version 20200518) (host pcbnew "5.99.0-unknown-c8476d6~101~ubuntu18.04.1")
 
   (general
     (thickness 1.628)
@@ -72,6 +72,7 @@
     (via_min_annulus 0.125)
     (via_min_size 0.35)
     (through_hole_min 0.1)
+    (hole_to_hole_min 0.25)
     (via_size 0.35)
     (via_drill 0.1)
     (user_via 0.8 0.4)
