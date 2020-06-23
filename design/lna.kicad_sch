@@ -1,4 +1,4 @@
-(kicad_sch (version 20200512) (host eeschema "5.99.0-unknown-598ed8b~101~ubuntu18.04.1")
+(kicad_sch (version 20200608) (host eeschema "5.99.0-unknown-ad69e44~101~ubuntu18.04.1")
 
   (page 5 8)
 
@@ -690,6 +690,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:PWR_FLAG") (at 88.9 110.49 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "8cf087e1-cb95-40ce-ae42-5e904300bcf8")
     (property "Reference" "#FLG06" (id 0) (at 86.995 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -706,6 +707,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 20.32 34.29 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "c15df2e7-b54e-498b-83ba-e1fa84951d22")
     (property "Reference" "#PWR0122" (id 0) (at 20.32 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -720,6 +722,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 31.75 34.29 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "1490a7d3-103c-45d5-84c2-76b70a5eff7d")
     (property "Reference" "#PWR0123" (id 0) (at 31.75 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -734,6 +737,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 44.45 22.86 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "c408ae23-4459-416b-8ded-54a7238e524f")
     (property "Reference" "#PWR0124" (id 0) (at 44.45 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -748,6 +752,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 44.45 34.29 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "585416c4-b511-42fc-81d3-6ac514e41b4f")
     (property "Reference" "#PWR0125" (id 0) (at 44.45 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -762,6 +767,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 72.39 74.93 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "942f04db-39c9-4a9b-a730-26a241ca9247")
     (property "Reference" "#PWR0111" (id 0) (at 72.39 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -776,6 +782,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 90.17 85.09 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "e4402aaa-a8fb-4924-bf7f-69378ad2f02e")
     (property "Reference" "#PWR0112" (id 0) (at 90.17 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -790,6 +797,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 90.17 100.33 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "24690bdd-28ab-4fd0-b784-5a787528627e")
     (property "Reference" "#PWR0113" (id 0) (at 90.17 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -804,6 +812,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 90.17 120.65 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "9de3de6a-4d80-4a28-80a7-259a391ff6be")
     (property "Reference" "#PWR0114" (id 0) (at 90.17 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -818,6 +827,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 90.17 143.51 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "5fdda857-d746-439b-bc40-fd2f1cf45bea")
     (property "Reference" "#PWR0115" (id 0) (at 90.17 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -832,6 +842,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 100.33 120.65 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a097dd54-6908-4a04-a794-07471226bfed")
     (property "Reference" "#PWR0116" (id 0) (at 100.33 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -846,6 +857,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 107.95 80.01 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "fcee8787-4c9f-4dce-bf89-69bb07822158")
     (property "Reference" "#PWR0117" (id 0) (at 107.95 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -860,6 +872,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 110.49 120.65 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "7d9b12df-5feb-4607-9ef4-4058a69039bd")
     (property "Reference" "#PWR0118" (id 0) (at 110.49 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -874,6 +887,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 119.38 80.01 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "2e0933d2-54af-4f43-83fc-cdf849a6a2e8")
     (property "Reference" "#PWR0119" (id 0) (at 119.38 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -888,6 +902,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3A") (at 134.62 80.01 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a213d69f-062b-4f09-ba76-f8b932fdb035")
     (property "Reference" "#PWR0120" (id 0) (at 134.62 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -902,6 +917,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 149.86 125.73 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "366b8d40-dda2-4837-8558-935a51979857")
     (property "Reference" "#PWR0121" (id 0) (at 149.86 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -916,6 +932,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 90.17 77.47 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "d720bef2-fbae-45a8-8f5d-5272e3c1e25c")
     (property "Reference" "R37" (id 0) (at 91.948 76.3016 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -932,6 +949,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 90.17 105.41 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "fc62a244-84fb-4c55-8184-35e5d6f83d57")
     (property "Reference" "R38" (id 0) (at 91.948 104.2416 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -948,6 +966,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 90.17 115.57 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "7fe15532-ef88-477a-a880-32ca89529bcb")
     (property "Reference" "R39" (id 0) (at 91.948 114.4016 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -964,6 +983,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 100.33 68.58 270) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a65f2e04-4be2-42f0-987c-df9b27f3e33b")
     (property "Reference" "R40" (id 0) (at 100.33 63.3222 90))
     (property "Value" "301R" (id 1) (at 100.33 65.6336 90))
@@ -976,6 +996,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 100.33 115.57 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "320c22a8-6713-4a0a-b695-f0cf204257e1")
     (property "Reference" "R41" (id 0) (at 102.108 114.4016 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -992,6 +1013,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 100.33 139.7 270) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a35475eb-b724-4ec3-b15b-84b1c0404c12")
     (property "Reference" "R42" (id 0) (at 100.33 134.4422 90))
     (property "Value" "301R" (id 1) (at 100.33 136.7536 90))
@@ -1004,6 +1026,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 107.95 88.9 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "354b4ba7-d995-45bf-9c30-4901333346f3")
     (property "Reference" "R43" (id 0) (at 109.728 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1020,6 +1043,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 119.38 88.9 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "7745f107-f732-41f0-a729-eede7c925617")
     (property "Reference" "R44" (id 0) (at 121.158 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1036,6 +1060,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 134.62 88.9 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "c9d21a96-6428-41b9-bd87-37287e127c43")
     (property "Reference" "R45" (id 0) (at 136.398 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1052,6 +1077,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 154.94 68.58 270) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a85698b1-fd38-4e42-becb-65a34d96a010")
     (property "Reference" "R46" (id 0) (at 154.94 63.3222 90))
     (property "Value" "301R" (id 1) (at 154.94 65.6336 90))
@@ -1064,6 +1090,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 154.94 139.7 270) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "7c19a159-6fdf-48ef-8ae4-808e576adc34")
     (property "Reference" "R47" (id 0) (at 154.94 134.4422 90))
     (property "Value" "301R" (id 1) (at 154.94 136.7536 90))
@@ -1076,6 +1103,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 200.66 95.25 270) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a9041087-5b6f-4163-8167-f68c5c573c0b")
     (property "Reference" "R48" (id 0) (at 200.66 89.9922 90))
     (property "Value" "47R" (id 1) (at 200.66 92.3036 90))
@@ -1088,6 +1116,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 200.66 105.41 270) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "4f4f4f5d-ab97-4d23-b567-a9e9751d40f0")
     (property "Reference" "R49" (id 0) (at 200.66 100.1522 90))
     (property "Value" "47R" (id 1) (at 200.66 102.4636 90))
@@ -1100,6 +1129,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 20.32 29.21 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "43f3adca-6510-4d17-b9a3-cdc1c089d883")
     (property "Reference" "C54" (id 0) (at 23.241 28.067 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1116,6 +1146,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 31.75 29.21 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "7e0e96fe-848a-4ad1-b8bf-57fe1917485b")
     (property "Reference" "C55" (id 0) (at 34.671 28.0416 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1132,6 +1163,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 44.45 29.21 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "7d8f3325-8c6f-45f9-8588-9880dcde1ea8")
     (property "Reference" "C56" (id 0) (at 47.371 28.067 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1148,6 +1180,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 110.49 115.57 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "01087538-8850-4d30-a98e-7fbf7f374241")
     (property "Reference" "C53" (id 0) (at 113.411 114.4016 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1164,6 +1197,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_Coaxial") (at 72.39 68.58 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "4aa1fa18-8bf8-40d7-89d8-efb81a5be4d1")
     (property "Reference" "J5" (id 0) (at 74.2188 62.5348 0))
     (property "Value" "SMA" (id 1) (at 74.2188 64.8462 0))
@@ -1176,6 +1210,7 @@
   )
 
   (symbol (lib_id "KLIB_Amplifier:ADA4930-1") (at 154.94 102.87 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "ec104936-9f10-4bd6-befb-7515b1f81ff0")
     (property "Reference" "U10" (id 0) (at 161.1376 82.6516 0)
       (effects (font (size 1.27 1.27)) (justify left))

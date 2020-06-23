@@ -1,4 +1,4 @@
-(kicad_sch (version 20200512) (host eeschema "5.99.0-unknown-598ed8b~101~ubuntu18.04.1")
+(kicad_sch (version 20200608) (host eeschema "5.99.0-unknown-ad69e44~101~ubuntu18.04.1")
 
   (page 3 8)
 
@@ -951,59 +951,59 @@
   (junction (at 236.22 25.4))
   (junction (at 262.89 26.67))
 
+  (no_connect (at 95.25 137.16))
+  (no_connect (at 95.25 134.62))
+  (no_connect (at 140.97 104.14))
   (no_connect (at 140.97 132.08))
-  (no_connect (at 95.25 104.14))
-  (no_connect (at 140.97 139.7))
-  (no_connect (at 140.97 137.16))
-  (no_connect (at 140.97 162.56))
-  (no_connect (at 140.97 48.26))
-  (no_connect (at 140.97 99.06))
-  (no_connect (at 140.97 149.86))
+  (no_connect (at 140.97 129.54))
   (no_connect (at 95.25 139.7))
-  (no_connect (at 140.97 45.72))
+  (no_connect (at 140.97 142.24))
+  (no_connect (at 95.25 142.24))
+  (no_connect (at 140.97 134.62))
+  (no_connect (at 140.97 76.2))
+  (no_connect (at 95.25 147.32))
+  (no_connect (at 140.97 144.78))
+  (no_connect (at 140.97 119.38))
   (no_connect (at 95.25 81.28))
+  (no_connect (at 140.97 139.7))
   (no_connect (at 140.97 96.52))
   (no_connect (at 140.97 124.46))
-  (no_connect (at 140.97 53.34))
-  (no_connect (at 95.25 147.32))
-  (no_connect (at 140.97 43.18))
-  (no_connect (at 95.25 129.54))
-  (no_connect (at 140.97 91.44))
-  (no_connect (at 95.25 132.08))
-  (no_connect (at 140.97 50.8))
-  (no_connect (at 140.97 106.68))
-  (no_connect (at 140.97 109.22))
-  (no_connect (at 140.97 104.14))
-  (no_connect (at 140.97 119.38))
-  (no_connect (at 95.25 109.22))
-  (no_connect (at 140.97 101.6))
-  (no_connect (at 95.25 152.4))
-  (no_connect (at 140.97 93.98))
-  (no_connect (at 95.25 99.06))
-  (no_connect (at 140.97 134.62))
-  (no_connect (at 140.97 55.88))
-  (no_connect (at 95.25 111.76))
-  (no_connect (at 95.25 116.84))
-  (no_connect (at 140.97 127))
-  (no_connect (at 140.97 83.82))
-  (no_connect (at 140.97 157.48))
-  (no_connect (at 95.25 119.38))
-  (no_connect (at 95.25 144.78))
-  (no_connect (at 95.25 83.82))
-  (no_connect (at 140.97 38.1))
-  (no_connect (at 140.97 144.78))
-  (no_connect (at 140.97 142.24))
   (no_connect (at 140.97 58.42))
-  (no_connect (at 95.25 142.24))
-  (no_connect (at 95.25 137.16))
-  (no_connect (at 95.25 88.9))
-  (no_connect (at 95.25 76.2))
-  (no_connect (at 95.25 134.62))
-  (no_connect (at 140.97 76.2))
-  (no_connect (at 95.25 149.86))
+  (no_connect (at 140.97 109.22))
+  (no_connect (at 140.97 50.8))
   (no_connect (at 140.97 40.64))
+  (no_connect (at 95.25 76.2))
+  (no_connect (at 95.25 83.82))
+  (no_connect (at 140.97 43.18))
+  (no_connect (at 95.25 144.78))
+  (no_connect (at 95.25 116.84))
+  (no_connect (at 140.97 93.98))
+  (no_connect (at 140.97 99.06))
+  (no_connect (at 95.25 111.76))
+  (no_connect (at 95.25 88.9))
+  (no_connect (at 140.97 45.72))
+  (no_connect (at 140.97 162.56))
+  (no_connect (at 95.25 109.22))
+  (no_connect (at 95.25 104.14))
   (no_connect (at 95.25 114.3))
-  (no_connect (at 140.97 129.54))
+  (no_connect (at 140.97 53.34))
+  (no_connect (at 140.97 137.16))
+  (no_connect (at 95.25 152.4))
+  (no_connect (at 95.25 132.08))
+  (no_connect (at 140.97 157.48))
+  (no_connect (at 140.97 91.44))
+  (no_connect (at 95.25 119.38))
+  (no_connect (at 140.97 101.6))
+  (no_connect (at 95.25 129.54))
+  (no_connect (at 95.25 99.06))
+  (no_connect (at 140.97 55.88))
+  (no_connect (at 140.97 106.68))
+  (no_connect (at 140.97 38.1))
+  (no_connect (at 140.97 83.82))
+  (no_connect (at 140.97 127))
+  (no_connect (at 140.97 48.26))
+  (no_connect (at 95.25 149.86))
+  (no_connect (at 140.97 149.86))
 
   (bus_entry (at 67.31 88.9) (size 2.54 -2.54))
   (bus_entry (at 67.31 93.98) (size 2.54 -2.54))
@@ -1544,13 +1544,10 @@
   (bus (pts (xy 182.88 63.5) (xy 182.88 68.58))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 182.88 68.58) (xy 182.88 71.12))
+  (bus (pts (xy 182.88 68.58) (xy 182.88 76.2))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 182.88 71.12) (xy 182.88 78.74))
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-  )
-  (bus (pts (xy 182.88 78.74) (xy 182.88 81.28))
+  (bus (pts (xy 182.88 76.2) (xy 182.88 81.28))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
   (bus (pts (xy 182.88 81.28) (xy 182.88 85.09))
@@ -1559,10 +1556,10 @@
   (bus (pts (xy 182.88 85.09) (xy 186.69 85.09))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 182.88 116.84) (xy 182.88 119.38))
+  (bus (pts (xy 182.88 116.84) (xy 182.88 121.92))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 182.88 119.38) (xy 182.88 123.19))
+  (bus (pts (xy 182.88 121.92) (xy 182.88 123.19))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
   (bus (pts (xy 186.69 123.19) (xy 182.88 123.19))
@@ -1623,10 +1620,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
   )
   (text "MCU VDD BYPASS" (at 187.96 17.78 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
   )
   (text "MCU VDDA BYPASS" (at 260.35 17.78 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
   )
 
   (label "BRIDGE_MOSI" (at 17.78 88.9 0)
@@ -1785,6 +1782,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:PWR_FLAG") (at 55.88 48.26 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "174b1ec1-d4c6-435e-bb92-7af725f51d01")
     (property "Reference" "#FLG04" (id 0) (at 53.975 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1799,6 +1797,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:PWR_FLAG") (at 72.39 50.8 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "b50df4e6-e68b-42f7-9678-e2aee0813acd")
     (property "Reference" "#FLG05" (id 0) (at 70.485 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1813,6 +1812,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 24.13 172.72 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "6bfc4e00-90aa-442e-b5de-2260021d37ee")
     (property "Reference" "#PWR058" (id 0) (at 24.13 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1827,6 +1827,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 33.02 22.86 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "aaa01b9f-7647-4d5b-b7e3-f0f5f34b393f")
     (property "Reference" "#PWR059" (id 0) (at 33.02 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1841,6 +1842,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 33.02 36.83 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "6c29e32e-e47d-434c-bbd4-620119188d28")
     (property "Reference" "#PWR060" (id 0) (at 33.02 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1855,6 +1857,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 35.56 172.72 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "429880df-d402-47f0-89f4-06a3e91acc25")
     (property "Reference" "#PWR061" (id 0) (at 35.56 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1869,6 +1872,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 40.64 63.5 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "e10cf29e-5b9c-4a3f-8767-5a93e4282ff7")
     (property "Reference" "#PWR062" (id 0) (at 40.64 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1883,6 +1887,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 45.72 97.79 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "ce7cff89-bdd2-44be-bf4c-6e2472b5076e")
     (property "Reference" "#PWR063" (id 0) (at 45.72 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1897,6 +1902,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 46.99 172.72 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "8dfc0cef-9511-43c3-9166-b1e0f78264bb")
     (property "Reference" "#PWR064" (id 0) (at 46.99 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1911,6 +1917,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 57.15 63.5 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "36ffbc1a-da35-42cb-82a6-07dd777485c4")
     (property "Reference" "#PWR065" (id 0) (at 57.15 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1925,6 +1932,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 58.42 172.72 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "02d6215a-69b3-42b1-897f-8c74e6af6867")
     (property "Reference" "#PWR066" (id 0) (at 58.42 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1939,6 +1947,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 73.66 63.5 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a20ef79c-096c-448c-b358-4c7725ce66ac")
     (property "Reference" "#PWR067" (id 0) (at 73.66 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1953,6 +1962,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 90.17 63.5 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "6d3a15fc-9a56-4dd6-acb3-85fcdd8e737f")
     (property "Reference" "#PWR068" (id 0) (at 90.17 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1967,6 +1977,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 118.11 27.94 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "dc36bc32-ad12-47d3-924c-27399f500013")
     (property "Reference" "#PWR069" (id 0) (at 118.11 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1981,6 +1992,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 118.11 172.72 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "843d3c5f-df2b-4a6a-8e05-c173e10ad0de")
     (property "Reference" "#PWR070" (id 0) (at 118.11 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1995,6 +2007,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 190.5 24.13 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "528f1eb2-90d3-460b-9455-71169a76c33d")
     (property "Reference" "#PWR071" (id 0) (at 190.5 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2009,6 +2022,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 190.5 35.56 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "ad5a5dfe-ac4f-45ba-a8a7-3f483cf346ce")
     (property "Reference" "#PWR072" (id 0) (at 190.5 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2023,6 +2037,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 201.93 35.56 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "f18f815c-f1b5-4d8d-887f-16032b5917b7")
     (property "Reference" "#PWR073" (id 0) (at 201.93 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2037,6 +2052,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 201.93 55.88 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "f8ca1294-ce4c-4486-82f7-b2bb678065dd")
     (property "Reference" "#PWR074" (id 0) (at 201.93 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2051,6 +2067,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 201.93 76.2 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "b425042c-7631-4e2a-9935-1856b90e0aa3")
     (property "Reference" "#PWR075" (id 0) (at 201.93 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2065,6 +2082,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 201.93 90.17 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "79b92941-b34e-48ac-85e8-a13505d1669c")
     (property "Reference" "#PWR076" (id 0) (at 201.93 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2079,6 +2097,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 201.93 110.49 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "ad805686-0951-40b2-899d-8e2e70f6c33e")
     (property "Reference" "#PWR077" (id 0) (at 201.93 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2093,6 +2112,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 212.09 76.2 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "0de787bc-1362-40d7-b5a1-018558ee58a2")
     (property "Reference" "#PWR078" (id 0) (at 212.09 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2107,6 +2127,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 212.09 110.49 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "7d0f8d80-a1d7-47a9-8e1b-92ec77f1c704")
     (property "Reference" "#PWR079" (id 0) (at 212.09 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2121,6 +2142,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 213.36 36.83 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "f79b38c1-b21a-4d3f-a0ea-45bd02054cc8")
     (property "Reference" "#PWR080" (id 0) (at 213.36 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2135,6 +2157,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 223.52 110.49 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "461e6550-4bdd-4f8e-8e92-ac3ceda8267c")
     (property "Reference" "#PWR081" (id 0) (at 223.52 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2149,6 +2172,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 224.79 36.83 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "572582df-7ebb-46ee-ae02-f1b633e9ab90")
     (property "Reference" "#PWR082" (id 0) (at 224.79 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2163,6 +2187,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 236.22 36.83 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "02e780f0-8692-4914-a437-7605b66a289b")
     (property "Reference" "#PWR083" (id 0) (at 236.22 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2177,6 +2202,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 237.49 76.2 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a6d06d08-6629-49ac-b3b1-329722910013")
     (property "Reference" "#PWR084" (id 0) (at 237.49 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2191,6 +2217,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 237.49 110.49 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "1ca98eb8-6828-451f-881c-e83ccfa3c496")
     (property "Reference" "#PWR085" (id 0) (at 237.49 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2205,6 +2232,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 247.65 36.83 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "e2a56be5-d6a8-475b-b5f6-3b6bc4f8b5c2")
     (property "Reference" "#PWR086" (id 0) (at 247.65 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2219,6 +2247,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:+3V3D") (at 262.89 25.4 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "56702a41-211f-428b-8108-af7c2680ad38")
     (property "Reference" "#PWR087" (id 0) (at 262.89 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2233,6 +2262,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 262.89 36.83 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "4f23e8fe-ef40-4021-9a5a-2d5f0bd23e22")
     (property "Reference" "#PWR088" (id 0) (at 262.89 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2247,6 +2277,7 @@
   )
 
   (symbol (lib_id "KLIB_Power:GND") (at 274.32 36.83 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "32af091c-f61e-4bf4-ac64-9a524108932f")
     (property "Reference" "#PWR089" (id 0) (at 274.32 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2261,6 +2292,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 68.58 154.94 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "244447f5-df02-4d27-bb03-893eb2479e14")
     (property "Reference" "R15" (id 0) (at 71.12 153.67 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2277,6 +2309,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 68.58 157.48 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "b557b616-2960-4c03-a9a3-c92ff4e53aa9")
     (property "Reference" "R16" (id 0) (at 71.12 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2293,6 +2326,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 68.58 160.02 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a2b51247-21f6-46c6-a4ce-edc2f881c040")
     (property "Reference" "R17" (id 0) (at 71.12 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2309,6 +2343,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 68.58 162.56 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "5ad891ff-6f1e-4daf-bb55-26d9e6bcec8a")
     (property "Reference" "R18" (id 0) (at 71.12 161.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2325,6 +2360,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 189.23 147.32 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "4abd384b-1435-4d61-9940-4ccaa9255f71")
     (property "Reference" "R19" (id 0) (at 191.77 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2341,6 +2377,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 232.41 147.32 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "347b5030-0d81-4534-bbdc-6bb31b330c7f")
     (property "Reference" "R22" (id 0) (at 234.95 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2357,6 +2394,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 254 66.04 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "8bb93d50-8efc-4c32-91a5-672285b6aede")
     (property "Reference" "R23" (id 0) (at 256.54 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2373,6 +2411,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 40.64 58.42 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "78594602-2556-4f27-ac12-3b4da0d3bb65")
     (property "Reference" "R14" (id 0) (at 42.418 57.277 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2389,6 +2428,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 223.52 62.23 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "9d8f822a-6bcb-48d0-a481-c6ef856f5c6d")
     (property "Reference" "R20" (id 0) (at 225.298 61.087 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2405,6 +2445,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 223.52 105.41 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "399ee381-4571-4059-98b5-4d1872019096")
     (property "Reference" "R21" (id 0) (at 225.298 104.267 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2421,6 +2462,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.13 167.64 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "bd71c4c2-13a8-44f5-86e9-17d39656af32")
     (property "Reference" "D7" (id 0) (at 29.21 167.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2437,6 +2479,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 35.56 167.64 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "03503161-6b55-4585-8dc9-465f245ee394")
     (property "Reference" "D8" (id 0) (at 40.64 167.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2453,6 +2496,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 46.99 167.64 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "3cdaa669-8b9e-42b6-8245-324fa307a23a")
     (property "Reference" "D9" (id 0) (at 52.07 167.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2469,6 +2513,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 58.42 167.64 90) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "514fc158-24e6-4f85-afdd-bd5e910fd259")
     (property "Reference" "D10" (id 0) (at 63.5 167.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2485,6 +2530,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 57.15 58.42 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "478c97b9-7937-45c8-b5d0-2425034703ec")
     (property "Reference" "C30" (id 0) (at 60.071 57.277 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2501,6 +2547,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 73.66 58.42 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "2232f104-ed09-40f1-8028-6bfa7018e853")
     (property "Reference" "C31" (id 0) (at 76.581 57.277 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2517,6 +2564,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 90.17 58.42 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "c376a707-8dd6-49b1-8163-b313c52c33e8")
     (property "Reference" "C32" (id 0) (at 93.091 57.277 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2533,6 +2581,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 190.5 30.48 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "904a0b94-aba8-458f-a0b2-29cfd491e82f")
     (property "Reference" "C33" (id 0) (at 193.421 29.337 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2549,6 +2598,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 201.93 30.48 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "3c589516-d3c6-4134-a79e-f0f7e826fb13")
     (property "Reference" "C34" (id 0) (at 204.851 29.337 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2565,6 +2615,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 201.93 71.12 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "022c1216-f62b-4628-8b6b-94b8e15f8347")
     (property "Reference" "C35" (id 0) (at 204.851 69.977 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2581,6 +2632,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 201.93 105.41 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "d1b94e96-a114-4b6d-96e3-0f7ba20b238c")
     (property "Reference" "C36" (id 0) (at 204.851 104.267 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2597,6 +2649,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 212.09 71.12 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "2615682a-0929-4294-a70c-29ca8919ec47")
     (property "Reference" "C37" (id 0) (at 215.011 69.977 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2613,6 +2666,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 212.09 105.41 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "93c524a0-2f16-4f3a-bf77-1abcf39cdd77")
     (property "Reference" "C38" (id 0) (at 215.011 104.267 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2629,6 +2683,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 213.36 31.75 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "f7c6777d-501b-4977-b8c5-5e90752cb995")
     (property "Reference" "C39" (id 0) (at 216.281 30.607 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2645,6 +2700,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 224.79 31.75 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "509687c5-5ee7-44fb-b637-d0f090db94e8")
     (property "Reference" "C40" (id 0) (at 227.711 30.607 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2661,6 +2717,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 236.22 31.75 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "a484c3cc-5e44-4c4d-a006-d6a7e31d3a15")
     (property "Reference" "C41" (id 0) (at 239.141 30.607 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2677,6 +2734,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 247.65 31.75 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "fe90aa5c-eb77-4748-82ef-fde0e4962d5b")
     (property "Reference" "C42" (id 0) (at 250.571 30.607 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2693,6 +2751,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 262.89 31.75 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "3fcf601b-a8f7-45fb-8a08-1beefd0861bb")
     (property "Reference" "C43" (id 0) (at 265.811 30.607 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2709,6 +2768,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 274.32 31.75 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "66293164-92c0-4377-a3fc-0e2f04dc4e55")
     (property "Reference" "C44" (id 0) (at 277.241 30.607 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2725,6 +2785,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x04_Odd_Even") (at 35.56 91.44 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "19da8a86-1fe2-482a-992a-e211b8b8d41e")
     (property "Reference" "J3" (id 0) (at 36.83 82.55 0))
     (property "Value" "DEBUG_SPI" (id 1) (at 36.83 85.09 0))
@@ -2737,6 +2798,7 @@
   )
 
   (symbol (lib_id "KLIB_Connector_Prog:SWD_01X06") (at 25.4 27.94 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "cb4ba874-8252-47af-88a4-2108b28d4212")
     (property "Reference" "J2" (id 0) (at 24.13 15.24 0))
     (property "Value" "SWD_01X06" (id 1) (at 24.13 17.78 0))
@@ -2749,6 +2811,7 @@
   )
 
   (symbol (lib_id "Oscillator:SG-5032CCN") (at 237.49 66.04 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "9c6ecc57-08e1-4470-abca-e26bcda390b8")
     (property "Reference" "X1" (id 0) (at 243.6622 59.817 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2765,6 +2828,7 @@
   )
 
   (symbol (lib_id "Oscillator:SG-5032CCN") (at 237.49 100.33 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "6fbb8d60-1fbe-43e8-b3b1-c58f3f488486")
     (property "Reference" "X2" (id 0) (at 243.6622 94.107 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2781,6 +2845,7 @@
   )
 
   (symbol (lib_id "KLIB_MCU_ST_STM32H7:STM32H750VBTx") (at 118.11 99.06 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid "ca90bbcb-2aff-4464-b4b8-78db344bb15c")
     (property "Reference" "U6" (id 0) (at 135.89 30.1752 0))
     (property "Value" "STM32H750VBTx" (id 1) (at 135.89 32.4866 0))
