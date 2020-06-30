@@ -1,6 +1,6 @@
-(kicad_sch (version 20200608) (host eeschema "5.99.0-unknown-ad69e44~101~ubuntu18.04.1")
+(kicad_sch (version 20200618) (host eeschema "5.99.0-unknown-f420396~101~ubuntu18.04.1")
 
-  (page 9 8)
+  (page 1 8)
 
   (paper "A4")
 
@@ -348,8 +348,8 @@
     )
   )
 
-  (junction (at 147.32 73.66))
-  (junction (at 147.32 116.84))
+  (junction (at 147.32 73.66) (diameter 0) (color 0 0 0 0))
+  (junction (at 147.32 116.84) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 101.6 73.66) (xy 147.32 73.66))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -429,7 +429,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
   )
 
-  (symbol (lib_id "KLIB_Power:GND") (at 16.51 190.5 0)
+  (symbol (lib_id "KLIB_Power:GND") (at 16.51 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "13653dde-686d-45e8-af1a-16b3583592d4")
     (property "Reference" "#PWR01" (id 0) (at 16.51 195.58 0)
@@ -444,7 +444,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Power:GND") (at 35.56 190.5 0)
+  (symbol (lib_id "KLIB_Power:GND") (at 35.56 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "08124af8-7e27-49eb-a34b-142deabcb85c")
     (property "Reference" "#PWR02" (id 0) (at 35.56 195.58 0)
@@ -459,7 +459,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Power:GND") (at 54.61 190.5 0)
+  (symbol (lib_id "KLIB_Power:GND") (at 54.61 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "6c07a7e5-f136-44bb-8086-ba05ad45ce64")
     (property "Reference" "#PWR03" (id 0) (at 54.61 195.58 0)
@@ -474,7 +474,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Power:GND") (at 73.66 190.5 0)
+  (symbol (lib_id "KLIB_Power:GND") (at 73.66 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "f54593db-a2df-44c5-8513-2bde6eaa3b94")
     (property "Reference" "#PWR04" (id 0) (at 73.66 195.58 0)
@@ -489,7 +489,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 170.18 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 170.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "cc908382-2291-421b-aa1a-d790d0402769")
     (property "Reference" "FD1" (id 0) (at 121.92 168.91 0)
@@ -506,7 +506,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 176.53 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 176.53 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "f1b3ec91-2292-4d03-b160-728826e2eac1")
     (property "Reference" "FD2" (id 0) (at 121.92 175.26 0)
@@ -523,7 +523,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 184.15 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 184.15 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "2b79b4d8-433b-425e-b209-129ffcd949fd")
     (property "Reference" "FD3" (id 0) (at 121.92 182.88 0)
@@ -540,7 +540,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 190.5 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 118.11 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "e31f8e3b-dd48-40c1-b5d6-3b89aa06f3bc")
     (property "Reference" "FD4" (id 0) (at 121.92 189.23 0)
@@ -557,7 +557,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 170.18 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 170.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "15990d51-6613-410a-b9bf-b9c16c73e9f4")
     (property "Reference" "FD5" (id 0) (at 147.32 168.91 0)
@@ -574,7 +574,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 176.53 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 176.53 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "a09b0666-8d86-4dae-b667-dcbb3a29bf60")
     (property "Reference" "FD6" (id 0) (at 147.32 175.26 0)
@@ -591,7 +591,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 184.15 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 184.15 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "9c9d4db9-f696-4d68-a52a-db12895f4bea")
     (property "Reference" "FD7" (id 0) (at 147.32 182.88 0)
@@ -608,7 +608,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 190.5 0)
+  (symbol (lib_id "KLIB_Mechanical:Fiducial") (at 143.51 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "bd0b34e1-8137-46a6-a773-b5659f7ffad2")
     (property "Reference" "FD8" (id 0) (at 147.32 189.23 0)
@@ -625,7 +625,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 16.51 190.5 0)
+  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 16.51 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "f56eaa1e-ba52-456d-99dd-e4fffeedc129")
     (property "Reference" "H1" (id 0) (at 21.59 186.69 0)
@@ -642,7 +642,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 35.56 190.5 0)
+  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 35.56 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "046fc9d9-8dfd-4c80-b086-7203e50e39fb")
     (property "Reference" "H2" (id 0) (at 40.64 186.69 0)
@@ -659,7 +659,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 54.61 190.5 0)
+  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 54.61 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "89c20909-ff41-4425-8411-202c0cba7401")
     (property "Reference" "H3" (id 0) (at 59.69 186.69 0)
@@ -676,7 +676,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 73.66 190.5 0)
+  (symbol (lib_id "KLIB_Mechanical:Bolt_Pad") (at 73.66 190.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "2dd1fcbe-225c-4d1a-8c37-be2797f79686")
     (property "Reference" "H4" (id 0) (at 78.74 186.69 0)
@@ -693,7 +693,7 @@
     )
   )
 
-  (symbol (lib_id "KLIB_Logo:Wykys") (at 271.78 173.99 0)
+  (symbol (lib_id "KLIB_Logo:Wykys") (at 271.78 173.99 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "0986990b-68f7-46ae-983b-508b0be78074")
     (property "Reference" "GR1" (id 0) (at 271.78 177.4444 0)
