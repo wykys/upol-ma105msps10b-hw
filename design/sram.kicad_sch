@@ -1,11 +1,11 @@
-(kicad_sch (version 20200618) (host eeschema "5.99.0-unknown-f420396~101~ubuntu18.04.1")
+(kicad_sch (version 20200714) (host eeschema "5.99.0-unknown-039b6fd~102~ubuntu18.04.1")
 
   (page 1 8)
 
   (paper "A4")
 
   (title_block
-    (title "Digitizer 10b 105 MSPS with FPGA")
+    (title "Digitizer 10b 100 MSPS with FPGA")
     (date "2020-03-09")
     (rev "1.0")
     (company "Jan Vykydal")
@@ -385,10 +385,10 @@
   )
 
   (bus_alias "SRAM" (members "SRAM_IO[0..15]" "SRAM_A[0..16]" "~SRAM_CE" "~SRAM_OE" "~SRAM_WE" "~SRAM_LB" "~SRAM_UB"))
-  (junction (at 36.83 24.13) (diameter 0) (color 0 0 0 0))
-  (junction (at 71.12 24.13) (diameter 0) (color 0 0 0 0))
-  (junction (at 139.7 54.61) (diameter 0) (color 0 0 0 0))
-  (junction (at 139.7 138.43) (diameter 0) (color 0 0 0 0))
+  (junction (at 36.83 24.13) (diameter 0) (color 255 0 0 1))
+  (junction (at 71.12 24.13) (diameter 0) (color 255 0 0 1))
+  (junction (at 139.7 54.61) (diameter 0) (color 255 0 0 1))
+  (junction (at 139.7 138.43) (diameter 0) (color 0 0 255 1))
 
   (bus_entry (at 78.74 71.12) (size 2.54 -2.54)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
