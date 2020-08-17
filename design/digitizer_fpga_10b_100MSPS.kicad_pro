@@ -94,7 +94,7 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_through_hole_diameter": 0.09999999999999999,
-        "min_track_width": 0.15,
+        "min_track_width": 0.125,
         "min_via_annulus": 0.125,
         "min_via_diameter": 0.35,
         "solder_mask_clearance": 0.049999999999999996,
