@@ -1,4 +1,4 @@
-(kicad_pcb (version 20200811) (host pcbnew "5.99.0-unknown-e5f2015a9~102~ubuntu18.04.1")
+(kicad_pcb (version 20200811) (host pcbnew "5.99.0-unknown-96f4e8f6f~102~ubuntu18.04.1")
 
   (general
     (thickness 1.628)
@@ -1489,7 +1489,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${W3D}/KLIB_Connector_Coaxial.3dshapes/SMA - RF2-143-T-17-50-G.step"
+    (model "${W3D}/KLIB_Connector_Coaxial.3dshapes/SMA-RF2-143-T-17-50-G.step"
       (offset (xyz 0 -2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
