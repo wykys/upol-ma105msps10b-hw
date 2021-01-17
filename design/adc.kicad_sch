@@ -1,6 +1,4 @@
-(kicad_sch (version 20200714) (host eeschema "5.99.0-unknown-039b6fd~102~ubuntu18.04.1")
-
-  (page 1 8)
+(kicad_sch (version 20201015) (generator eeschema)
 
   (paper "A4")
 
@@ -12,7 +10,7 @@
   )
 
   (lib_symbols
-    (symbol "Connector_Generic:Conn_02x04_Odd_Even" (pin_names hide)
+    (symbol "Connector_Generic:Conn_02x04_Odd_Even" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 1.27 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -96,7 +94,7 @@
         )
       )
     )
-    (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254))
+    (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -120,11 +118,17 @@
       )
       (symbol "C_0_1"
         (polyline
-          (pts (xy -2.032 -0.762) (xy 2.032 -0.762))
+          (pts
+            (xy -2.032 -0.762)
+            (xy 2.032 -0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
         (polyline
-          (pts (xy -2.032 0.762) (xy 2.032 0.762))
+          (pts
+            (xy -2.032 0.762)
+            (xy 2.032 0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
       )
@@ -139,7 +143,7 @@
         )
       )
     )
-    (symbol "Device:C_1" (pin_numbers hide) (pin_names (offset 0.254))
+    (symbol "Device:C_1" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -163,11 +167,17 @@
       )
       (symbol "C_1_0_1"
         (polyline
-          (pts (xy -2.032 -0.762) (xy 2.032 -0.762))
+          (pts
+            (xy -2.032 -0.762)
+            (xy 2.032 -0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
         (polyline
-          (pts (xy -2.032 0.762) (xy 2.032 0.762))
+          (pts
+            (xy -2.032 0.762)
+            (xy 2.032 0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
       )
@@ -182,7 +192,7 @@
         )
       )
     )
-    (symbol "Device:C_2" (pin_numbers hide) (pin_names (offset 0.254))
+    (symbol "Device:C_2" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -206,11 +216,17 @@
       )
       (symbol "C_2_0_1"
         (polyline
-          (pts (xy -2.032 -0.762) (xy 2.032 -0.762))
+          (pts
+            (xy -2.032 -0.762)
+            (xy 2.032 -0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
         (polyline
-          (pts (xy -2.032 0.762) (xy 2.032 0.762))
+          (pts
+            (xy -2.032 0.762)
+            (xy 2.032 0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
       )
@@ -225,7 +241,7 @@
         )
       )
     )
-    (symbol "Device:C_3" (pin_numbers hide) (pin_names (offset 0.254))
+    (symbol "Device:C_3" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -249,11 +265,17 @@
       )
       (symbol "C_3_0_1"
         (polyline
-          (pts (xy -2.032 -0.762) (xy 2.032 -0.762))
+          (pts
+            (xy -2.032 -0.762)
+            (xy 2.032 -0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
         (polyline
-          (pts (xy -2.032 0.762) (xy 2.032 0.762))
+          (pts
+            (xy -2.032 0.762)
+            (xy 2.032 0.762)
+          )
           (stroke (width 0.508)) (fill (type none))
         )
       )
@@ -268,7 +290,7 @@
         )
       )
     )
-    (symbol "Device:R" (pin_numbers hide) (pin_names (offset 0))
+    (symbol "Device:R" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 2.032 0 90)
         (effects (font (size 1.27 1.27)))
       )
@@ -306,7 +328,7 @@
         )
       )
     )
-    (symbol "Device:R_Small" (pin_numbers hide) (pin_names (offset 0.254) hide)
+    (symbol "Device:R_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 0.762 0.508 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -344,7 +366,7 @@
         )
       )
     )
-    (symbol "KLIB_ADC:AD9214" (pin_names (offset 0.508))
+    (symbol "KLIB_ADC:AD9214" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 12.7 20.32 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -368,8 +390,13 @@
       )
       (symbol "AD9214_0_1"
         (polyline
-          (pts (xy -23.495 0) (xy -17.78 17.78) (xy 20.32 17.78) (xy 20.32 -17.78)
-               (xy -17.78 -17.78) (xy -23.495 0)
+          (pts
+            (xy -23.495 0)
+            (xy -17.78 17.78)
+            (xy 20.32 17.78)
+            (xy 20.32 -17.78)
+            (xy -17.78 -17.78)
+            (xy -23.495 0)
           )
           (stroke (width 0.254)) (fill (type background))
         )
@@ -489,7 +516,7 @@
         )
       )
     )
-    (symbol "KLIB_Power:+3V3A" (power) (pin_names (offset 0))
+    (symbol "KLIB_Power:+3V3A" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -7.62 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -504,15 +531,24 @@
       )
       (symbol "+3V3A_0_1"
         (polyline
-          (pts (xy -1.27 2.54) (xy 0 2.54))
+          (pts
+            (xy -1.27 2.54)
+            (xy 0 2.54)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy 0 0) (xy 0 2.54))
+          (pts
+            (xy 0 0)
+            (xy 0 2.54)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy 0 2.54) (xy 1.27 2.54))
+          (pts
+            (xy 0 2.54)
+            (xy 1.27 2.54)
+          )
           (stroke (width 0)) (fill (type none))
         )
       )
@@ -523,7 +559,7 @@
         )
       )
     )
-    (symbol "KLIB_Power:+3V3D" (power) (pin_names (offset 0))
+    (symbol "KLIB_Power:+3V3D" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -7.62 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -538,15 +574,24 @@
       )
       (symbol "+3V3D_0_1"
         (polyline
-          (pts (xy -1.27 2.54) (xy 0 2.54))
+          (pts
+            (xy -1.27 2.54)
+            (xy 0 2.54)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy 0 0) (xy 0 2.54))
+          (pts
+            (xy 0 0)
+            (xy 0 2.54)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy 0 2.54) (xy 1.27 2.54))
+          (pts
+            (xy 0 2.54)
+            (xy 1.27 2.54)
+          )
           (stroke (width 0)) (fill (type none))
         )
       )
@@ -557,7 +602,7 @@
         )
       )
     )
-    (symbol "KLIB_Power:GND" (power) (pin_names (offset 0))
+    (symbol "KLIB_Power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -572,23 +617,38 @@
       )
       (symbol "GND_0_1"
         (polyline
-          (pts (xy -0.9144 -1.7272) (xy 0.9144 -1.7272))
+          (pts
+            (xy -0.9144 -1.7272)
+            (xy 0.9144 -1.7272)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy -0.5588 -2.1336) (xy 0.5588 -2.1336))
+          (pts
+            (xy -0.5588 -2.1336)
+            (xy 0.5588 -2.1336)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy -0.254 -2.54) (xy 0.254 -2.54))
+          (pts
+            (xy -0.254 -2.54)
+            (xy 0.254 -2.54)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy 0 -1.27) (xy 0 0))
+          (pts
+            (xy 0 -1.27)
+            (xy 0 0)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy 1.27 -1.27) (xy -1.27 -1.27))
+          (pts
+            (xy 1.27 -1.27)
+            (xy -1.27 -1.27)
+          )
           (stroke (width 0)) (fill (type none))
         )
       )
@@ -599,7 +659,7 @@
         )
       )
     )
-    (symbol "Reference_Voltage:TL431DBZ" (pin_numbers hide) (pin_names (offset 0.508) hide)
+    (symbol "Reference_Voltage:TL431DBZ" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -2.54 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -623,15 +683,28 @@
       )
       (symbol "TL431DBZ_0_1"
         (polyline
-          (pts (xy -1.27 0) (xy 0 0) (xy 1.27 0))
+          (pts
+            (xy -1.27 0)
+            (xy 0 0)
+            (xy 1.27 0)
+          )
           (stroke (width 0)) (fill (type none))
         )
         (polyline
-          (pts (xy -0.762 0.762) (xy 0.762 0) (xy -0.762 -0.762))
+          (pts
+            (xy -0.762 0.762)
+            (xy 0.762 0)
+            (xy -0.762 -0.762)
+          )
           (stroke (width 0)) (fill (type outline))
         )
         (polyline
-          (pts (xy 0.508 -1.016) (xy 0.762 -0.762) (xy 0.762 0.762) (xy 0.762 0.762))
+          (pts
+            (xy 0.508 -1.016)
+            (xy 0.762 -0.762)
+            (xy 0.762 0.762)
+            (xy 0.762 0.762)
+          )
           (stroke (width 0.254)) (fill (type none))
         )
       )
@@ -653,26 +726,26 @@
   )
 
   (bus_alias "ADC" (members "ADC_DATA[0..9]" "ADC_OVRNG"))
-  (junction (at 29.21 165.1) (diameter 0) (color 0 0 0 0))
-  (junction (at 30.48 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 40.64 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 49.53 165.1) (diameter 0) (color 0 0 0 0))
-  (junction (at 52.07 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 82.55 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 93.98 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 105.41 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 114.3 124.46) (diameter 0) (color 0 0 0 0))
-  (junction (at 114.3 127) (diameter 0) (color 0 0 0 0))
-  (junction (at 114.3 129.54) (diameter 0) (color 0 0 0 0))
-  (junction (at 116.84 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 128.27 24.13) (diameter 0) (color 255 0 0 1))
-  (junction (at 139.7 132.08) (diameter 0) (color 0 0 0 0))
-  (junction (at 147.32 76.2) (diameter 0) (color 255 0 0 1))
-  (junction (at 149.86 76.2) (diameter 0) (color 255 0 0 1))
-  (junction (at 149.86 124.46) (diameter 0) (color 0 0 255 1))
-  (junction (at 152.4 124.46) (diameter 0) (color 0 0 255 1))
-  (junction (at 157.48 76.2) (diameter 0) (color 255 0 0 1))
-  (junction (at 160.02 124.46) (diameter 0) (color 0 0 255 1))
+  (junction (at 29.21 165.1) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 30.48 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 40.64 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 49.53 165.1) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 52.07 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 82.55 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 93.98 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 105.41 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 114.3 124.46) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 114.3 127) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 114.3 129.54) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 116.84 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 128.27 24.13) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 139.7 132.08) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 147.32 76.2) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 149.86 76.2) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 149.86 124.46) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 152.4 124.46) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 157.48 76.2) (diameter 0.9144) (color 0 0 0 0))
+  (junction (at 160.02 124.46) (diameter 0.9144) (color 0 0 0 0))
 
   (no_connect (at 100.33 132.08))
   (no_connect (at 139.7 77.47))
@@ -1032,22 +1105,37 @@
   (wire (pts (xy 190.5 113.03) (xy 215.9 113.03))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 218.44 82.55) (xy 218.44 87.63))
+  (bus (pts (xy 218.44 82.55) (xy 218.44 85.09))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 218.44 87.63) (xy 218.44 92.71))
+  (bus (pts (xy 218.44 85.09) (xy 218.44 87.63))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 218.44 92.71) (xy 218.44 97.79))
+  (bus (pts (xy 218.44 87.63) (xy 218.44 90.17))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+  )
+  (bus (pts (xy 218.44 90.17) (xy 218.44 92.71))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+  )
+  (bus (pts (xy 218.44 92.71) (xy 218.44 95.25))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+  )
+  (bus (pts (xy 218.44 95.25) (xy 218.44 97.79))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
   (bus (pts (xy 218.44 97.79) (xy 218.44 100.33))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 218.44 100.33) (xy 218.44 105.41))
+  (bus (pts (xy 218.44 100.33) (xy 218.44 102.87))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 218.44 105.41) (xy 218.44 110.49))
+  (bus (pts (xy 218.44 102.87) (xy 218.44 105.41))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+  )
+  (bus (pts (xy 218.44 105.41) (xy 218.44 107.95))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+  )
+  (bus (pts (xy 218.44 107.95) (xy 218.44 110.49))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
   (bus (pts (xy 224.79 82.55) (xy 218.44 82.55))
