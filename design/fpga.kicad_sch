@@ -7864,9 +7864,9 @@
     )
   )
 
-  (bus_alias "FPGA_CONTROL" (members "FPGA_DONE" "FPGA_ERROR" "FPGA_LOAD_BITSTREAM"))
-  (bus_alias "FPGA_CONFIG" (members "FPGA_DQ[0..3]" "FPGA_CCLK" "FPGA_FCS_B" "FPGA_PUDC_B"))
   (bus_alias "BRIDGE" (members "BRIDGE_MOSI" "BRIDGE_MISO" "BRIDGE_SCK" "BRIDGE_NSS" "BRIDGE_NU[0..3]"))
+  (bus_alias "FPGA_CONFIG" (members "FPGA_DQ[0..3]" "FPGA_CCLK" "FPGA_FCS_B" "FPGA_PUDC_B"))
+  (bus_alias "FPGA_CONTROL" (members "FPGA_DONE" "FPGA_ERROR" "FPGA_LOAD_BITSTREAM"))
   (junction (at 26.67 33.02) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 26.67 35.56) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 26.67 38.1) (diameter 0.9144) (color 0 0 0 0))

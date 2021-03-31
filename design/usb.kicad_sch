@@ -11,16 +11,16 @@
 
   (lib_symbols
     (symbol "74xGxx:74LVC1G11" (in_bom yes) (on_board yes)
-      (property "Reference" "U" (id 0) (at -2.54 5.08 0)
+      (property "Reference" "U8" (id 0) (at 11.43 7.62 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "74LVC1G11" (id 1) (at 0 -5.08 0)
+      (property "Value" "SN74LVC1G11DCKR" (id 1) (at 11.43 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "" (id 2) (at 0 0 0)
+      (property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "" (id 3) (at 0 0 0)
+      (property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" (id 3) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "Single Gate AND triple LVC CMOS" (id 4) (at 0 0 0)
@@ -34,7 +34,7 @@
       )
       (symbol "74LVC1G11_0_1"
         (arc (start 0 -3.175) (end 0 3.175) (radius (at 0 0) (length 3.175) (angles -89.9 89.9))
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254)) (fill (type background))
         )
         (polyline
           (pts
@@ -43,7 +43,7 @@
             (xy -3.81 3.175)
             (xy 0 3.175)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254)) (fill (type background))
         )
       )
       (symbol "74LVC1G11_1_1"
